@@ -1,6 +1,6 @@
 # 🌧soft-rain 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft-rain&count_private=true&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft-rain&count_private=true&show_icons=true&theme=gotham)
 
 ## 🛠Tech Stack 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
